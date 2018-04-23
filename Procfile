@@ -1,1 +1,1 @@
-web: node app.js barhoring
+web: node hello.js
